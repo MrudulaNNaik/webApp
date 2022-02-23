@@ -1,0 +1,14 @@
+.abc {
+  margin: 0;
+  padding: 0;
+}
+.qwe {
+  margin: 0;
+  padding: 0;
+}
+.containers {
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: rgba(192, 12, 12, 0.5);
+}

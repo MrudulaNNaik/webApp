@@ -1,0 +1,6 @@
+.containers {
+  height: 150px;
+  width: 90%;
+  border-radius: 10px;
+  background-color: rgba(192, 12, 12, 0.5);
+}
